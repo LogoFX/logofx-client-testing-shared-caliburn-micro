@@ -1,6 +1,6 @@
 ﻿using Caliburn.Micro;
 
-namespace LogoFX.Client.Tests.Shared.Caliburn.Micro
+namespace LogoFX.Client.Testing.Shared.Caliburn.Micro
 {
     /// <summary>
     /// Helper class for test-related actions.
