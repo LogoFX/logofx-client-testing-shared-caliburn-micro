@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27130.2027
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29311.281
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform.UWP", "LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform\uwp\LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform.UWP.csproj", "{0D76A984-D603-4AE6-B694-6FE911E3505A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform.NET", "LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform\net\LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform.NET.csproj", "{CAB7ACDF-9BCE-448A-B5D9-BD0B8EDEBDFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform.NETCore", "LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform\netcore\LogoFX.Client.Testing.Shared.Caliburn.Micro.Platform.NETCore.csproj", "{D1E10386-70AC-4A4B-B373-6A015B24B98C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,22 @@ Global
 		{CAB7ACDF-9BCE-448A-B5D9-BD0B8EDEBDFE}.Release|x64.Build.0 = Release|Any CPU
 		{CAB7ACDF-9BCE-448A-B5D9-BD0B8EDEBDFE}.Release|x86.ActiveCfg = Release|Any CPU
 		{CAB7ACDF-9BCE-448A-B5D9-BD0B8EDEBDFE}.Release|x86.Build.0 = Release|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Debug|ARM.Build.0 = Debug|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Debug|x64.Build.0 = Debug|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Debug|x86.Build.0 = Debug|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Release|ARM.Build.0 = Release|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Release|x64.ActiveCfg = Release|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Release|x64.Build.0 = Release|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Release|x86.ActiveCfg = Release|Any CPU
+		{D1E10386-70AC-4A4B-B373-6A015B24B98C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
