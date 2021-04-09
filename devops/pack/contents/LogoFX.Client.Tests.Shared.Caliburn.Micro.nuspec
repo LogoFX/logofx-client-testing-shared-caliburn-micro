@@ -13,5 +13,5 @@
     <description>LogoFX Client Mvvm Testing Shared Caliburn Micro containing facilities for writing Caliburn.Micro-based client integration tests.</description>
     <summary>LogoFX Client Mvvm Testing Shared Caliburn Micro containing facilities for writing Caliburn.Micro-based client integration tests.</summary>
     <releaseNotes>Updated dependent packages</releaseNotes>
-  </metadata>  
+  </metadata>
 </package>
