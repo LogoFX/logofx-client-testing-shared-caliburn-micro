@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>LogoFX.Client.Tests.Shared.Caliburn.Micro</id>
-    <version>2.2.0-rc3</version>
+    <version>2.2.0</version>
     <title>LogoFX.Client.Testing.Shared.Caliburn.Micro</title>
     <authors>Gennady Verdel</authors>
     <owners>Gennady Verdel</owners>
@@ -12,6 +12,8 @@
     <iconUrl>https://github.com/LogoFX/logofx-assets/blob/master/icons/icon.png?raw=true</iconUrl>
     <description>LogoFX Client Mvvm Testing Shared Caliburn Micro containing facilities for writing Caliburn.Micro-based client integration tests.</description>
     <summary>LogoFX Client Mvvm Testing Shared Caliburn Micro containing facilities for writing Caliburn.Micro-based client integration tests.</summary>
-    <releaseNotes>Updated dependent packages</releaseNotes>
+    <releaseNotes></releaseNotes>
+    <tags>framework logofx dotnet</tags>
+    <repository type="Open Source" url="https://github.com/LogoFX/logofx-client-testing-shared-caluburn-micro" />
   </metadata>
 </package>
