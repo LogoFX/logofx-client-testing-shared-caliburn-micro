@@ -12,6 +12,8 @@
     <iconUrl>https://github.com/LogoFX/logofx-assets/blob/master/icons/icon.png?raw=true</iconUrl>
     <description>LogoFX Client Mvvm Testing Shared Caliburn Micro containing facilities for writing Caliburn.Micro-based client integration tests.</description>
     <summary>LogoFX Client Mvvm Testing Shared Caliburn Micro containing facilities for writing Caliburn.Micro-based client integration tests.</summary>
-    <releaseNotes>Updated dependent packages</releaseNotes>
+    <releaseNotes></releaseNotes>
+    <tags>framework logofx dotnet</tags>
+    <repository type="Open Source" url="https://github.com/LogoFX/logofx-client-testing-shared-caluburn-micro" />
   </metadata>
 </package>
